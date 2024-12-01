@@ -1,0 +1,18 @@
+{
+  "name": "daily-schedule",
+  "version": "1.0.0",
+  "description": "存一下自己的日程哈。",
+  "scripts": {
+    "generate": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurLemon/daily-schedule.git"
+  },
+  "author": "AurLemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AurLemon/daily-schedule/issues"
+  },
+  "homepage": "https://github.com/AurLemon/daily-schedule#readme"
+}
